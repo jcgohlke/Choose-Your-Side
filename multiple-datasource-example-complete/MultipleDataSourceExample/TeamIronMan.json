@@ -1,0 +1,38 @@
+ [
+  {
+    "alias": "Iron Man",
+    "name": "Tony Stark",
+    "powers": "electromechanical suit, flight, enhanced strength",
+    "summary": "Wounded, captured and forced to build a weapon by his enemies, billionaire industrialist Tony Stark instead created an advanced suit of armor to save his life and escape captivity. Now with a new outlook on life, Tony uses his money and intelligence to make the world a safer, better place as Iron Man."
+  },
+  {
+    "alias": "Black Widow",
+    "name": "Natasha Romanoff",
+    "powers": "tactician, martial artist, electronic gauntlets",
+    "summary": "Trusted by some and feared by most, the Black Widow strives to make up for the bad she had done in the past by helping the world, even if that means getting her hands dirty in the process."
+  },
+  {
+    "alias": "War Machine",
+    "name": "James \"Rhodey\" Rhodes",
+    "powers": "electromechanical suit, flight, enhanced strength",
+    "summary": "Air Force Lieutenant Colonel James “Rhodey” Rhodes exudes loyalty and courage, whether flying a plane or piloting the War Machine armor."
+  },
+  {
+    "alias": "Black Panther",
+    "name": "T'Challa",
+    "powers": "vibranium suit, martial artist",
+    "summary": "As the king of the African nation of Wakanda, T’Challa protects his people as the latest in a legacy line of Black Panther warriors."
+  },
+  {
+    "alias": "Vision",
+    "name": "N/A",
+    "powers": "flight, shapeshifting, superhuman intelligence",
+    "summary": "The metal monstrosity called Ultron created the synthetic humanoid known as the Vision from the remains of the original android Human Torch of the 1940s to serve as a vehicle of vengeance against the Avengers."
+  },
+  {
+    "alias": "Spider-Man",
+    "name": "Peter Parker",
+    "powers": "enhanced agility/strength, precognitive sensing",
+    "summary": "Bitten by a radioactive spider, high school student Peter Parker gained the speed, strength and powers of a spider. Adopting the name Spider-Man, Peter hoped to start a career using his new abilities. Taught that with great power comes great responsibility, Spidey has vowed to use his powers to help people."
+  }
+]
