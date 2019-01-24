@@ -51,7 +51,7 @@ class RosterViewController: UIViewController, UITableViewDelegate
         
         configureView()
         
-        NotificationCenter.default.addObserver(self, selector: #selector(externalScreenDisconnected), name: UIScreen.didDisconnectNotification, object: nil)
+        NotificationCenter.default.addObserver(self, selector: #selector(externalScreenDidDisconnect), name: UIScreen.didDisconnectNotification, object: nil)
     }
     
     func configureView()
@@ -123,7 +123,7 @@ class RosterViewController: UIViewController, UITableViewDelegate
     
     // MARK: - Notification Handlers
     
-    @objc func externalScreenDisconnected(notification: Notification)
+    @objc func externalScreenDidDisconnect(notification: Notification)
     {
         secondWindow?.isHidden = true
         secondWindow = nil
