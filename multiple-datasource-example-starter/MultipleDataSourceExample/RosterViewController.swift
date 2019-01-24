@@ -46,7 +46,7 @@ class RosterViewController: UIViewController, UITableViewDataSource, UITableView
         configureView()
         loadHeroes(from: "TeamCap")
         
-        NotificationCenter.default.addObserver(self, selector: #selector(externalScreenDisconnected), name: UIScreen.didDisconnectNotification, object: nil)
+        NotificationCenter.default.addObserver(self, selector: #selector(externalScreenDidDisconnect), name: UIScreen.didDisconnectNotification, object: nil)
     }
     
     func configureView()
@@ -114,7 +114,7 @@ class RosterViewController: UIViewController, UITableViewDataSource, UITableView
     
     // MARK: - Notification Handlers
     
-    @objc func externalScreenDisconnected(notification: Notification)
+    @objc func externalScreenDidDisconnect(notification: Notification)
     {
         
     }
