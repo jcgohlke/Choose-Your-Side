@@ -1,10 +1,6 @@
 # ⚡️💥 Choose Your Side
 
-<img src="https://img.shields.io/badge/Swift-4.2-orange.svg" /> <a href="https://swift.org/package-manager">
-    <img src="https://img.shields.io/badge/spm-compatible-brightgreen.svg?style=flat" alt="Swift Package Manager" />
-</a> <a href="https://github.com/johnsundell/marathon">
-    <img src="https://img.shields.io/badge/marathon-compatible-brightgreen.svg?style=flat" alt="Marathon compatible" />
-</a> <a href="https://twitter.com/ferrousguy">
+<img src="https://img.shields.io/badge/Swift-4.2-orange.svg" /> <a href="https://twitter.com/ferrousguy">
     <img src="https://img.shields.io/badge/twitter-@ferrousguy-blue.svg?style=flat" alt="Twitter: @ferrousguy" />
 </a>
 
