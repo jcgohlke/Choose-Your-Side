@@ -1,0 +1,38 @@
+ [
+  {
+    "alias": "Captain America",
+    "name": "Steve Rogers",
+    "powers": "super strength, agility, stamina",
+    "summary": "Vowing to serve his country any way he could, young Steve Rogers took the super soldier serum to become America's one-man army. Fighting for the red, white and blue for over 60 years, Captain America is the living, breathing symbol of freedom and liberty."
+  },
+  {
+    "alias": "Winter Soldier",
+    "name": "James \"Bucky\" Barnes",
+    "powers": "super strength, prosthetic arm",
+    "summary": "James Buchanan “Bucky” Barnes enlists to fight in World War II, but eventually literally falls in battle. Unfortunately, the evil Arnim Zola recovers him and erases his memory, turning him into a highly-trained assassin called the Winter Soldier."
+  },
+  {
+    "alias": "Falcon",
+    "name": "Sam Wilson",
+    "powers": "flight with wingpack",
+    "summary": "With a mental connection to all birds and a suit that gives him wings to fly, The Falcon has been both the partner to Captain America and an Avenger himself. Whether as a super hero or in his secret identity of social worker Sam Wilson, The Falcon dedicates his life to standing up for others."
+  },
+  {
+    "alias": "Hawkeye",
+    "name": "Clint Barton",
+    "powers": "master archer",
+    "summary": "An expert marksman and fighter, Clint Barton puts his talents to good use by working for S.H.I.E.L.D. as a special agent. The archer known as Hawkeye also boasts a strong moral compass that at times leads him astray from his direct orders."
+  },
+  {
+    "alias": "Scarlet Witch",
+    "name": "Wanda Maximoff",
+    "powers": "hypnosis, telekinesis",
+    "summary": "Notably powerful, Wanda Maximoff has fought both against and with the Avengers, attempting to hone her abilities and do what she believes is right to help the world."
+  },
+  {
+    "alias": "Ant-Man",
+    "name": "Scott Lang",
+    "powers": "size-changing suit, enhanced strength",
+    "summary": "When ex-criminal Scott Lang turned to his illicit skills in order to save his daughter’s life, he unexpectedly became the size-shifting, insect-commanding Super Hero known as Ant-Man!"
+  }
+]
