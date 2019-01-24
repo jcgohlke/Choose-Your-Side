@@ -9,6 +9,3 @@ This iOS project provides examples for using configurable, custom data sources f
 I recommend you check out the starter project first to see an app that has been configured to simply show a table of values. Then examine the completed project to compare that single data source example with a different configuration that uses two different, custom data sources with the same table view. The completed project is also modified to show the cell's detail view on a second screen if one is present.
 
 Happy coding! 💻
-
-
-# 🔶 Shapeshift
